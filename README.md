@@ -6,7 +6,7 @@
 
 - 📫 How to reach me 
 lukaszgogul@gmail.com
-linkedin.com/in/łukasz-gogulski-839646155
+
 
 <!---
 GogulskiL/GogulskiL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
